@@ -1,5 +1,4 @@
-# Quanti
+# Extracting Data
 
-Including algorithms for data extraction via API and ETL
+Including algorithms for data extraction by API and ETL
 
-Extraction Data by API or ETL
